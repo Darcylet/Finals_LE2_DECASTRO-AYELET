@@ -56,5 +56,5 @@ def main():
         
 
 
-if __name__ == "__main__":
+while __name__ == "__main__":
     main()
